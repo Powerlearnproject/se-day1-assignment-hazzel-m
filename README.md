@@ -34,7 +34,7 @@ A Project Manager oversees the planning, execution and delivery of softaware pro
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 IDE's help developers to streamline the development workflow by making it easy to write,debug and test code. eg VS Code 
-Version Control Systems are tools that help developers track, store and manage changes made on code base. eg GitHub
+Version Control Systems are tools that help developers track, store and manage changes made on code base. eg Git
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 Handling tight dealines. 
